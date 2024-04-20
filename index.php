@@ -1,0 +1,1 @@
+<?php echo "EC KKU API Home .."; ?>
